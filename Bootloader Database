@@ -1,0 +1,216 @@
+http://www.gammon.com.au/forum/?id=11633&reply=1#reply1
+
+
+Atmega
+
+ATmegaBOOT_168_atmega328.hex
+be77c6d6bbfec061d55024d6251af883 *ATmegaBOOT_168_atmega328.hex
+Loader start: 7800, length: 2048
+MD5 sum = 0A AC F7 16 F4 3C A2 C9 27 7E 08 B9 D6 90 BC 02
+Board name in IDE: Arduino Duemilanove w/ ATmega328
+
+ATmegaBOOT_168_atmega328_pro_8MHz.hex
+654f86b6aff0ce8a50e161bfa497f787 *ATmegaBOOT_168_atmega328_pro_8MHz.hex
+Loader start: 7800, length: 2048
+MD5 sum = 27 EB 87 14 5D 45 D4 D8 41 44 52 CE 0A 2B 8C 5F 
+Board name in IDE: Arduino Pro or Pro Mini (3.3V, 8 MHz) w/ ATmega328
+
+ATmegaBOOT_168_atmega1280.hex
+e68a53e9e6281a430baf25f7878abb70 *ATmegaBOOT_168_atmega1280.hex
+Loader start: 1F000, length: 4096
+MD5 sum = 01 24 13 56 60 4D 91 7E DC EE 84 D1 19 EF 91 CE 
+Board name in IDE: Arduino Mega (ATmega1280)
+
+ATmegaBOOT_168_diecimila.hex
+53eaa14387a624b5aa082a735cdb402b *ATmegaBOOT_168_diecimila.hex
+Loader start: 3800, length: 2048
+MD5 sum = 14 61 CE DF 85 46 0D 96 CC 41 CB 01 69 40 28 1A 
+Board name in IDE: Arduino Diecimila or Duemilanove w/ ATmega168
+
+ATmegaBOOT_168_ng.hex
+766b52a6c6cda1e9e9f7ca2cd7bb2565 *ATmegaBOOT_168_ng.hex
+Loader start: 3800, length: 2048
+MD5 sum = 6A 22 9F B4 64 37 3F A3 0C 68 39 1D 6A 97 2C 40 
+Board name in IDE: Arduino NG or older w/ ATmega168
+
+ATmegaBOOT_168_pro_8MHz.hex
+008ee429f3410c178b79a83f16634ecd *ATmegaBOOT_168_pro_8MHz.hex
+Loader start: 3800, length: 2048
+MD5 sum = FF 99 A2 C0 D9 C9 E5 1B 98 7D 9E 56 12 C2 A4 A1 
+Board name in IDE: Arduino Pro or Pro Mini (3.3V, 8 MHz) w/ ATmega168
+
+Atmega8
+
+ATmegaBOOT.hex
+1c4c695f896b467178d208d9f055ff16 *ATmegaBOOT.hex
+Loader start: 1C00, length: 1024
+MD5 sum = 98 6D CF BB 55 E1 22 1E E4 3C C2 07 B2 2B 46 AE 
+Board name in IDE: Arduino NG or older w/ ATmega8
+
+bt
+
+ATmegaBOOT_168.hex
+a9a0a48376bb51ddb6cec16ef6a61ad2 *ATmegaBOOT_168.hex
+Loader start: 3800, length: 2048
+MD5 sum = 37 C0 FC 90 E2 A0 5D 8F 62 EB AE 9C 36 C2 24 05 
+Board name in IDE: Arduino BT w/ ATmega168
+
+ATmegaBOOT_168_atmega328_bt.hex
+9a4830486da6bd635b3aa54919362d4b *ATmegaBOOT_168_atmega328_bt.hex
+Loader start: 7000, length: 4096
+MD5 sum = 29 3E B3 B7 39 84 2D 35 BA 9D 02 F9 C7 F7 C9 D6 
+Board name in IDE: Arduino BT w/ ATmega328
+
+lilypad
+
+LilyPadBOOT_168.hex
+ef8d52df2201310371ca6b1079ebe041 *LilyPadBOOT_168.hex
+Loader start: 3800, length: 2048
+MD5 sum = FC AF 05 0E B4 D7 2D 75 8F 41 8C 85 83 56 AA 35 
+Board name in IDE: LilyPad Arduino w/ ATmega168
+
+optiboot
+
+optiboot_atmega328.hex
+38e4251545217bea70ab6c322b669a09 *optiboot_atmega328.hex
+Loader start: 7E00, length: 512
+MD5 sum = 55 71 A1 8C 81 3B 9E D2 E6 3B C9 3B 9A B1 79 53 
+Board name in IDE: Arduino Uno
+
+optiboot_atmega328_pro_8MHz.hex
+ca1e42a7654f1062eb4bcd69b2833a15 *optiboot_atmega328_pro_8MHz.hex
+Loader start: 7E00, length: 512
+MD5 sum = 3C 08 90 A1 6A 13 A2 F0 A5 1D 26 EC F1 4B 0F B3 
+Board name in IDE: (unsure)
+
+optiboot_diecimila.hex
+14fee7f2b13ae2f3ce522f8770e2846b *optiboot_diecimila.hex
+Loader start: 3E00, length: 512
+MD5 sum = 6A 95 0A E1 DB 1F 9D C7 8C F8 A4 80 B5 1E 54 E1 
+Board name in IDE: (unsure)
+
+optiboot_lilypad.hex
+30f3b54fe0c7a1cb9b39f9bbc28aa912 *optiboot_lilypad.hex
+Loader start: 3E00, length: 512
+MD5 sum = AD BD A7 4A 4F AB A8 65 34 92 F8 C9 CE 58 7D 78 
+Board name in IDE: (unsure)
+
+optiboot_lilypad_resonator.hex
+30f3b54fe0c7a1cb9b39f9bbc28aa912 *optiboot_lilypad_resonator.hex
+Loader start: 3E00, length: 512
+MD5 sum = AD BD A7 4A 4F AB A8 65 34 92 F8 C9 CE 58 7D 78 
+Board name in IDE: (unsure)
+
+optiboot_luminet.hex
+adeecc6556a711d21bfbdf7bb46349fc *optiboot_luminet.hex
+Loader start: 1D00, length: 768
+MD5 sum = 7B 5C AC 08 2A 0B 2D 45 69 11 A7 A0 AE 65 7F 66 
+Board name in IDE: (unsure)
+
+optiboot_pro_8MHz.hex
+30f3b54fe0c7a1cb9b39f9bbc28aa912 *optiboot_pro_8MHz.hex
+Loader start: 3E00, length: 512
+MD5 sum = AD BD A7 4A 4F AB A8 65 34 92 F8 C9 CE 58 7D 78 
+Board name in IDE: (unsure)
+
+optiboot_pro_16MHz.hex
+14fee7f2b13ae2f3ce522f8770e2846b *optiboot_pro_16MHz.hex
+Loader start: 3E00, length: 512
+MD5 sum = 6A 95 0A E1 DB 1F 9D C7 8C F8 A4 80 B5 1E 54 E1 
+Board name in IDE: (unsure)
+
+optiboot_pro_20mhz.hex
+7edd1ff90089d94aa380389cd6ec031e *optiboot_pro_20mhz.hex
+Loader start: 3E00, length: 512
+MD5 sum = 2C 55 B4 B8 B5 C5 CB C4 D3 36 99 CB 4B 9F DA BE 
+Board name in IDE: (unsure)
+
+stk500v2
+
+stk500boot_v2_mega2560.hex
+23d339e0ba55f179dd02e0e29d736991 *stk500boot_v2_mega2560.hex
+Loader start: 3E000, length: 8192
+MD5 sum = 1E 35 14 08 1F 65 7F 8C 96 50 69 9F 19 1E 3D F0 
+Board name in IDE: Arduino Mega 2560 or Mega ADK
+
+Atmega
+
+ATmegaBOOT_168_atmega328.hex
+(same as Version 0022 above)
+
+ATmegaBOOT_168_atmega328_pro_8MHz.hex
+(same as Version 0022 above)
+
+ATmegaBOOT_168_atmega1280.hex
+(same as Version 0022 above)
+
+ATmegaBOOT_168_diecimila.hex
+(same as Version 0022 above)
+
+ATmegaBOOT_168_ng.hex
+(same as Version 0022 above)
+
+ATmegaBOOT_168_pro_8MHz.hex
+(same as Version 0022 above)
+
+
+Atmega8
+
+ATmegaBOOT.hex
+(same as Version 0022 above)
+
+
+bt
+
+ATmegaBOOT_168.hex
+(same as Version 0022 above)
+
+ATmegaBOOT_168_atmega328_bt.hex
+(same as Version 0022 above)
+
+
+diskloader
+
+DiskLoader-Leonardo.hex
+71287c9b57939d53139288d6f88a62e1 *DiskLoader-Leonardo.hex
+Loader start: 7800, length: 2048
+MD5 sum = C2 59 71 5F 96 28 E3 AA B0 69 E2 AF F0 85 A1 20 
+Board name in IDE: Arduino Leonardo
+
+lilypad
+
+LilyPadBOOT_168.hex
+(same as Version 0022 above)
+
+
+optiboot
+
+optiboot_atmega8.hex
+c359be9d31d9303dbcdf28744a69880f *optiboot_atmega8.hex
+Loader start: 1E00, length: 512
+MD5 sum = E4 AF F6 6B 78 DA E4 30 FE B6 52 AF 53 52 18 49 
+Board name in IDE: (unsure)
+
+optiboot_atmega168.hex
+d41403881d29a1c3842bb313e80ca356 *optiboot_atmega168.hex
+Loader start: 3E00, length: 512
+MD5 sum = 3A 89 30 4B 15 F5 BB 11 AA E6 E6 DC 7C F5 91 35 
+Board name in IDE: (unsure)
+
+optiboot_atmega328.hex
+19b917aeec553ea1e47333cd9b1bbc5a *optiboot_atmega328.hex
+Loader start: 7E00, length: 512
+MD5 sum = FB F4 9B 7B 59 73 7F 65 E8 D0 F8 A5 08 12 E7 9F
+Board name in IDE: Arduino Uno
+
+optiboot_atmega328-Mini.hex
+015669f383a68e4cddad5b49e9b3d302 *optiboot_atmega328-Mini.hex
+Loader start: 7E00, length: 512
+MD5 sum = 7F DF E1 B2 6F 52 8F BD 7C FE 7E E0 84 C0 A5 6B 
+Board name in IDE: Arduino Mini w/ ATmega328
+
+
+stk500v2
+
+stk500boot_v2_mega2560.hex
+(same as Version 0022 above)
